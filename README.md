@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pytorchupdatebot
+- 👀 I’m interested in keeping PyTorch dependencies uptodate
+- 📫 How to reach me: Talk to @malfet
